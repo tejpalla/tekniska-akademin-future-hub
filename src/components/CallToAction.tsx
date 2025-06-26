@@ -53,9 +53,6 @@ const CallToAction = () => {
           </div>
         </div>
       </div>
-	  <div class="text-bottom text-center">
-	     Tekniska Akademin och Kompetensakademin är en del av Hayp Sweden AB
-	  </div>
     </section>
   );
 };
