@@ -40,7 +40,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-700 mt-12 pt-8 text-center">
           <p className="text-gray-400">
-            © 2025 Tekniska Akademin och Kompetensakademin är en del av HAYP Sweden AB. |  
+            © 2025 Tekniska Akademin och Kompetensakademin är en del av |  
             <a href="#" className="hover:text-yellow transition-colors ml-2">Integritetspolicy</a> | 
             <a href="#" className="hover:text-yellow transition-colors ml-2">Användarvillkor</a>
           </p>
