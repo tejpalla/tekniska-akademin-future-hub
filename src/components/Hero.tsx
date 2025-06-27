@@ -15,13 +15,16 @@ const Hero = () => {
             </div>
             <h1 className="text-5xl md:text-6xl font-bold leading-tight mb-6">
               
-Bemästra  <span className="text-cyan">Al Tools</span> & 
+Bemästra  <span className="text-cyan">Al Vertyg</span> & 
               <span className="text-yellow"> Digital marknadsföring</span>
             </h1>
-            <p className="text-xl text-gray-200 mb-8 leading-relaxed">
-              Join Sweden's most innovative tech training program. Learn cutting-edge AI tools, 
-              digital marketing strategies, and future-proof skills that employers are seeking.
-            </p>
+            <p className="text-xl text-gray-200 mb-8 leading-relaxed">Gå med i Sveriges mest innovativa teknikutbildning. Lär dig banbrytande AI-verktyg, digitala marknadsföringsstrategier och framtidssäkra färdigheter som arbetsgivare efterfrågar.
+
+
+
+
+
+</p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button 
                 size="lg" 
