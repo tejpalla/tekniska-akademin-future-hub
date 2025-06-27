@@ -2,6 +2,7 @@
 import { Button } from "@/components/ui/button";
 import { Rocket } from "lucide-react";
 
+
 const Hero = () => {
   return (
     <section className="relative bg-gradient-to-br from-navy via-navy to-primary min-h-screen flex items-center">
@@ -15,7 +16,7 @@ const Hero = () => {
             </div>
             <h1 className="text-5xl md:text-6xl font-bold leading-tight mb-6">
               
-Bemästra  <span className="text-cyan">Al Vertyg</span> & 
+Bemästra  <span className="text-cyan">AI Verk</span> & 
               <span className="text-yellow"> Digital marknadsföring</span>
             </h1>
             <p className="text-xl text-gray-200 mb-8 leading-relaxed">Gå med i Sveriges mest innovativa teknikutbildning. Lär dig banbrytande AI-verktyg, digitala marknadsföringsstrategier och framtidssäkra färdigheter som arbetsgivare efterfrågar.
@@ -26,12 +27,14 @@ Bemästra  <span className="text-cyan">Al Vertyg</span> &
 
 </p>
             <div className="flex flex-col sm:flex-row gap-4">
+			<a href="mailto:utbildning@kompetensakademin.net">
               <Button 
                 size="lg" 
                 className="bg-yellow text-black hover:bg-yellow/90 text-lg px-8 py-6 font-semibold transition-all duration-300 hover:scale-105 hover:shadow-lg"
               >
                 Ansök Nu - Starta Din Framtid
               </Button>
+			  </a>
               <Button 
                 variant="outline" 
                 size="lg" 

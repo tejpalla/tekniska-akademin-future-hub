@@ -22,12 +22,14 @@ const CallToAction = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
+		  <a href="mailto:utbildning@kompetensakademin.net">
             <Button 
               size="lg" 
               className="bg-navy text-white hover:bg-navy/90 text-xl px-12 py-6 font-bold transition-all duration-300 hover:scale-105 hover:shadow-2xl"
             >
               Ansök Nu - Begränsade Platser
             </Button>
+			</a>
             <Button 
               variant="outline" 
               size="lg" 
