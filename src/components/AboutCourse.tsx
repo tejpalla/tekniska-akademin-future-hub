@@ -10,7 +10,7 @@ const AboutCourse = () => {
     },
     {
       icon: <Code className="w-8 h-8 text-cyan" />,
-      title: "Digital Marketing",
+      title: "Digital marknadsföring",
       description: "Mästra SEO, social media marketing, och data-driven strategier för framgång."
     },
     {
@@ -68,7 +68,7 @@ const AboutCourse = () => {
                 </ul>
               </div>
               <div>
-                <h4 className="font-semibold text-cyan mb-2">Digital Marketing</h4>
+                <h4 className="font-semibold text-cyan mb-2">Digital marknadsföring</h4>
                 <ul className="text-gray-600 space-y-1">
                   <li>• SEO & Content Marketing</li>
                   <li>• Social Media Strategy</li>
