@@ -47,8 +47,8 @@ const CallToAction = () => {
               <div className="text-white/80">Flexibel Schemaläggning</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-white mb-2">Jobbgaranti</div>
-              <div className="text-white/80">Eller Anställning direkt efter!</div>
+              <div className="text-3xl font-bold text-white mb-2">Jobb-Garanti</div>
+              <div className="text-white/80">Anställning direkt efter!</div>
             </div>
           </div>
         </div>

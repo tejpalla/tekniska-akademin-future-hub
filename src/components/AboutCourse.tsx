@@ -15,7 +15,7 @@ const AboutCourse = () => {
     },
     {
       icon: <Users className="w-8 h-8 text-yellow" />,
-      title: "Hands-on Learning",
+      title: "Praktisk inlärning",
       description: "Praktiska projekt och verkliga case studies för att bygga din portfolio."
     },
     {
@@ -59,7 +59,7 @@ const AboutCourse = () => {
             <h3 className="text-2xl font-bold text-navy mb-4">Vad Du Kommer Att Lära Dig</h3>
             <div className="grid md:grid-cols-2 gap-6 text-left">
               <div>
-                <h4 className="font-semibold text-cyan mb-2">AI Tools & Automation</h4>
+                <h4 className="font-semibold text-cyan mb-2"> AI-verktyg & Automation</h4>
                 <ul className="text-gray-600 space-y-1">
                   <li>• ChatGPT för content creation</li>
                   <li>• Midjourney för visuell design</li>
