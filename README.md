@@ -6,7 +6,7 @@ A modern, responsive website built for **Tekniska Akademin** to promote and mana
 
 ## 🌐 Live Demo
 
-🔗 [View the Live Project](https://tekakademin.surge.sh/)  
+🔗 [View the Live Project](https://kompetensakademin.net)  
 
 ---
 
